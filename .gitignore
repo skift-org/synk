@@ -1,0 +1,15 @@
+__pycache__/
+_local/
+.cache/
+.cutekit/
+.DS_Store/
+.idea/
+.mypy_cache/
+.vscode/
+.python-version
+*._local
+*.code-workspace
+*.iml
+*.trace
+compile_commands.json
+.DS_Store

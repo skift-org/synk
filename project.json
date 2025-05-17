@@ -1,0 +1,13 @@
+{
+    "$schema": "https://schemas.cute.engineering/stable/cutekit.manifest.project.v1",
+    "id": "skift-org/synk",
+    "version": "v0.1.0",
+    "type": "project",
+    "description": "Synchronization and online services for Skift.",
+    "extern": {
+        "skift-org/karm": {
+            "git": "https://github.com/skift-org/karm.git",
+            "tag": "latest"
+        }
+    }
+}
